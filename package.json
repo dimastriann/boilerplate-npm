@@ -1,5 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dimastriann",
+	"description": "Project Back End Development and APIs from FreeCodeCamp",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"javascript",
+		"API"
+	],
+	"license": "LGPLv3",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
